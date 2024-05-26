@@ -1,0 +1,19 @@
+/* Lichess */
+.button.button-lichess {
+  color: #ffffff;
+  background-color: #111111;
+}
+.button.button-lichess:hover,
+.button.button-lichess:focus {
+  filter: brightness(90%);
+}
+
+/* Codewars */
+.button.button-codewars {
+  color: #000000;
+  background-color: #f45454;
+}
+.button.button-codewars:hover,
+.button.button-codewars:focus {
+  filter: brightness(90%);
+}
